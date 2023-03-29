@@ -1,5 +1,5 @@
 {
-  "name": "wx-chatgpt",
+  "name": "chatgpt",
   "version": "1.0.0",
   "description": "相学长chatgpt服务",
   "main": "index.js",
